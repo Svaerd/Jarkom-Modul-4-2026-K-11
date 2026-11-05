@@ -1,0 +1,479 @@
+{
+  "source": "Spreadsheet_Modul_4_Komdat_Jarkom_2026_VLSM(1).xlsx",
+  "source_sha256": "8111792da5332d6c0a31872fee87b4d0fdc3e4adeb843af8f7b39a97450c9e0b",
+  "host_source": "Official CPT topology image, shared Rute inventory; CIDR sheet synchronization approved by user",
+  "checked_at_utc": "2026-11-05T14:31:05.414032+00:00",
+  "aggregate": "10.69.0.0/19",
+  "required_addresses": 2814,
+  "allocated_addresses": 4188,
+  "unallocated_addresses": 4004,
+  "subnets": [
+    {
+      "id": "A1",
+      "route": "Psyche > Switch3 > Karl, Lin",
+      "hosts": 881,
+      "network": "10.69.0.0/22",
+      "mask": "255.255.252.0",
+      "broadcast": "10.69.3.255",
+      "usable": "10.69.0.1 - 10.69.3.254",
+      "capacity": 1022,
+      "block": 1024
+    },
+    {
+      "id": "A2",
+      "route": "Accela > Switch5 > Omnipresence, Denpa",
+      "hosts": 514,
+      "network": "10.69.4.0/22",
+      "mask": "255.255.252.0",
+      "broadcast": "10.69.7.255",
+      "usable": "10.69.4.1 - 10.69.7.254",
+      "capacity": 1022,
+      "block": 1024
+    },
+    {
+      "id": "A3",
+      "route": "Copland > Switch4 > Masayuki",
+      "hosts": 301,
+      "network": "10.69.8.0/23",
+      "mask": "255.255.254.0",
+      "broadcast": "10.69.9.255",
+      "usable": "10.69.8.1 - 10.69.9.254",
+      "capacity": 510,
+      "block": 512
+    },
+    {
+      "id": "A4",
+      "route": "Tachibana > Switch9 > Collective, Ghost",
+      "hosts": 267,
+      "network": "10.69.10.0/23",
+      "mask": "255.255.254.0",
+      "broadcast": "10.69.11.255",
+      "usable": "10.69.10.1 - 10.69.11.254",
+      "capacity": 510,
+      "block": 512
+    },
+    {
+      "id": "A5",
+      "route": "Navi > Switch6 > Alice, Reika",
+      "hosts": 254,
+      "network": "10.69.12.0/24",
+      "mask": "255.255.255.0",
+      "broadcast": "10.69.12.255",
+      "usable": "10.69.12.1 - 10.69.12.254",
+      "capacity": 254,
+      "block": 256
+    },
+    {
+      "id": "A6",
+      "route": "Navi > Switch8 > Yasuo, Miho, Kuma",
+      "hosts": 143,
+      "network": "10.69.13.0/24",
+      "mask": "255.255.255.0",
+      "broadcast": "10.69.13.255",
+      "usable": "10.69.13.1 - 10.69.13.254",
+      "capacity": 254,
+      "block": 256
+    },
+    {
+      "id": "A7",
+      "route": "Cyberia > Switch1 > JJ, MyuMyu",
+      "hosts": 126,
+      "network": "10.69.14.0/25",
+      "mask": "255.255.255.128",
+      "broadcast": "10.69.14.127",
+      "usable": "10.69.14.1 - 10.69.14.126",
+      "capacity": 126,
+      "block": 128
+    },
+    {
+      "id": "A8",
+      "route": "Deus > Switch10 > Lilith, Specter",
+      "hosts": 99,
+      "network": "10.69.15.0/25",
+      "mask": "255.255.255.128",
+      "broadcast": "10.69.15.127",
+      "usable": "10.69.15.1 - 10.69.15.126",
+      "capacity": 126,
+      "block": 128
+    },
+    {
+      "id": "A9",
+      "route": "Copland > Juri",
+      "hosts": 32,
+      "network": "10.69.14.128/26",
+      "mask": "255.255.255.192",
+      "broadcast": "10.69.14.191",
+      "usable": "10.69.14.129 - 10.69.14.190",
+      "capacity": 62,
+      "block": 64
+    },
+    {
+      "id": "A10",
+      "route": "Navi > Switch7 > Taro",
+      "hosts": 58,
+      "network": "10.69.16.0/26",
+      "mask": "255.255.255.192",
+      "broadcast": "10.69.16.63",
+      "usable": "10.69.16.1 - 10.69.16.62",
+      "capacity": 62,
+      "block": 64
+    },
+    {
+      "id": "A11",
+      "route": "Protocol7 > Switch11 > Chisa, Hodgeson",
+      "hosts": 33,
+      "network": "10.69.15.128/26",
+      "mask": "255.255.255.192",
+      "broadcast": "10.69.15.191",
+      "usable": "10.69.15.129 - 10.69.15.190",
+      "capacity": 62,
+      "block": 64
+    },
+    {
+      "id": "A12",
+      "route": "Shibuya > Switch13 > Lain, Mika",
+      "hosts": 62,
+      "network": "10.69.15.192/26",
+      "mask": "255.255.255.192",
+      "broadcast": "10.69.15.255",
+      "usable": "10.69.15.193 - 10.69.15.254",
+      "capacity": 62,
+      "block": 64
+    },
+    {
+      "id": "A13",
+      "route": "Phantoma > Switch12 > Semi",
+      "hosts": 15,
+      "network": "10.69.16.96/27",
+      "mask": "255.255.255.224",
+      "broadcast": "10.69.16.127",
+      "usable": "10.69.16.97 - 10.69.16.126",
+      "capacity": 30,
+      "block": 32
+    },
+    {
+      "id": "A14",
+      "route": "Wired > Switch2 > Psyche, Copland, Schumann",
+      "hosts": 4,
+      "network": "10.69.16.128/29",
+      "mask": "255.255.255.248",
+      "broadcast": "10.69.16.135",
+      "usable": "10.69.16.129 - 10.69.16.134",
+      "capacity": 6,
+      "block": 8
+    },
+    {
+      "id": "A15",
+      "route": "Schumann > Akashic",
+      "hosts": 4,
+      "network": "10.69.16.144/29",
+      "mask": "255.255.255.248",
+      "broadcast": "10.69.16.151",
+      "usable": "10.69.16.145 - 10.69.16.150",
+      "capacity": 6,
+      "block": 8
+    },
+    {
+      "id": "A16",
+      "route": "Knights > Eiri",
+      "hosts": 3,
+      "network": "10.69.16.152/29",
+      "mask": "255.255.255.248",
+      "broadcast": "10.69.16.159",
+      "usable": "10.69.16.153 - 10.69.16.158",
+      "capacity": 6,
+      "block": 8
+    },
+    {
+      "id": "A17",
+      "route": "Cyberia > Wired",
+      "hosts": 2,
+      "network": "10.69.16.160/30",
+      "mask": "255.255.255.252",
+      "broadcast": "10.69.16.163",
+      "usable": "10.69.16.161 - 10.69.16.162",
+      "capacity": 2,
+      "block": 4
+    },
+    {
+      "id": "A18",
+      "route": "Wired > Navi",
+      "hosts": 2,
+      "network": "10.69.16.164/30",
+      "mask": "255.255.255.252",
+      "broadcast": "10.69.16.167",
+      "usable": "10.69.16.165 - 10.69.16.166",
+      "capacity": 2,
+      "block": 4
+    },
+    {
+      "id": "A19",
+      "route": "Wired > Tachibana",
+      "hosts": 2,
+      "network": "10.69.16.168/30",
+      "mask": "255.255.255.252",
+      "broadcast": "10.69.16.171",
+      "usable": "10.69.16.169 - 10.69.16.170",
+      "capacity": 2,
+      "block": 4
+    },
+    {
+      "id": "A20",
+      "route": "Schumann > Accela",
+      "hosts": 2,
+      "network": "10.69.16.172/30",
+      "mask": "255.255.255.252",
+      "broadcast": "10.69.16.175",
+      "usable": "10.69.16.173 - 10.69.16.174",
+      "capacity": 2,
+      "block": 4
+    },
+    {
+      "id": "A21",
+      "route": "Tachibana > Deus",
+      "hosts": 2,
+      "network": "10.69.16.176/30",
+      "mask": "255.255.255.252",
+      "broadcast": "10.69.16.179",
+      "usable": "10.69.16.177 - 10.69.16.178",
+      "capacity": 2,
+      "block": 4
+    },
+    {
+      "id": "A22",
+      "route": "Deus > Protocol7",
+      "hosts": 2,
+      "network": "10.69.16.180/30",
+      "mask": "255.255.255.252",
+      "broadcast": "10.69.16.183",
+      "usable": "10.69.16.181 - 10.69.16.182",
+      "capacity": 2,
+      "block": 4
+    },
+    {
+      "id": "A23",
+      "route": "Protocol7 > Knights",
+      "hosts": 2,
+      "network": "10.69.16.184/30",
+      "mask": "255.255.255.252",
+      "broadcast": "10.69.16.187",
+      "usable": "10.69.16.185 - 10.69.16.186",
+      "capacity": 2,
+      "block": 4
+    },
+    {
+      "id": "A24",
+      "route": "Knights > Phantoma",
+      "hosts": 2,
+      "network": "10.69.16.188/30",
+      "mask": "255.255.255.252",
+      "broadcast": "10.69.16.191",
+      "usable": "10.69.16.189 - 10.69.16.190",
+      "capacity": 2,
+      "block": 4
+    },
+    {
+      "id": "A25",
+      "route": "Phantoma > Shibuya",
+      "hosts": 2,
+      "network": "10.69.16.136/30",
+      "mask": "255.255.255.252",
+      "broadcast": "10.69.16.139",
+      "usable": "10.69.16.137 - 10.69.16.138",
+      "capacity": 2,
+      "block": 4
+    }
+  ],
+  "free_blocks": [
+    "10.69.14.192/26",
+    "10.69.16.64/27",
+    "10.69.16.140/30",
+    "10.69.16.192/26",
+    "10.69.17.0/24",
+    "10.69.18.0/23",
+    "10.69.20.0/22",
+    "10.69.24.0/21"
+  ],
+  "checks": {
+    "workbook_matches": true,
+    "host_counts_match_official_cpt_image": true,
+    "smallest_masks": true,
+    "aligned": true,
+    "no_overlap": true,
+    "contained": true,
+    "minimum_aggregate": true,
+    "merge_tree_covers_every_subnet_once": true,
+    "each_merge_is_smallest_aligned_cover": true
+  },
+  "merges": [
+    {
+      "id": "B1",
+      "row": 7,
+      "left": "A17",
+      "right": "A18",
+      "network": "10.69.16.160/29"
+    },
+    {
+      "id": "B2",
+      "row": 8,
+      "left": "A19",
+      "right": "A20",
+      "network": "10.69.16.168/29"
+    },
+    {
+      "id": "B3",
+      "row": 9,
+      "left": "A21",
+      "right": "A22",
+      "network": "10.69.16.176/29"
+    },
+    {
+      "id": "B4",
+      "row": 10,
+      "left": "A23",
+      "right": "A24",
+      "network": "10.69.16.184/29"
+    },
+    {
+      "id": "B5",
+      "row": 11,
+      "left": "A14",
+      "right": "A25",
+      "network": "10.69.16.128/28"
+    },
+    {
+      "id": "B6",
+      "row": 12,
+      "left": "A15",
+      "right": "A16",
+      "network": "10.69.16.144/28"
+    },
+    {
+      "id": "B7",
+      "row": 13,
+      "left": "A7",
+      "right": "A9",
+      "network": "10.69.14.0/24"
+    },
+    {
+      "id": "B8",
+      "row": 14,
+      "left": "A11",
+      "right": "A12",
+      "network": "10.69.15.128/25"
+    },
+    {
+      "id": "C1",
+      "row": 20,
+      "left": "B1",
+      "right": "B2",
+      "network": "10.69.16.160/28"
+    },
+    {
+      "id": "C2",
+      "row": 21,
+      "left": "B3",
+      "right": "B4",
+      "network": "10.69.16.176/28"
+    },
+    {
+      "id": "C3",
+      "row": 22,
+      "left": "B5",
+      "right": "B6",
+      "network": "10.69.16.128/27"
+    },
+    {
+      "id": "C4",
+      "row": 23,
+      "left": "A10",
+      "right": "A13",
+      "network": "10.69.16.0/25"
+    },
+    {
+      "id": "D1",
+      "row": 29,
+      "left": "C1",
+      "right": "C2",
+      "network": "10.69.16.160/27"
+    },
+    {
+      "id": "D2",
+      "row": 30,
+      "left": "C3",
+      "right": "D1",
+      "network": "10.69.16.128/26"
+    },
+    {
+      "id": "D3",
+      "row": 31,
+      "left": "C4",
+      "right": "D2",
+      "network": "10.69.16.0/24"
+    },
+    {
+      "id": "E1",
+      "row": 37,
+      "left": "A8",
+      "right": "B8",
+      "network": "10.69.15.0/24"
+    },
+    {
+      "id": "E2",
+      "row": 38,
+      "left": "A5",
+      "right": "A6",
+      "network": "10.69.12.0/23"
+    },
+    {
+      "id": "E3",
+      "row": 39,
+      "left": "B7",
+      "right": "E1",
+      "network": "10.69.14.0/23"
+    },
+    {
+      "id": "F1",
+      "row": 45,
+      "left": "E2",
+      "right": "E3",
+      "network": "10.69.12.0/22"
+    },
+    {
+      "id": "F2",
+      "row": 46,
+      "left": "A3",
+      "right": "A4",
+      "network": "10.69.8.0/22"
+    },
+    {
+      "id": "G1",
+      "row": 52,
+      "left": "F1",
+      "right": "F2",
+      "network": "10.69.8.0/21"
+    },
+    {
+      "id": "G2",
+      "row": 53,
+      "left": "A1",
+      "right": "A2",
+      "network": "10.69.0.0/21"
+    },
+    {
+      "id": "H1",
+      "row": 59,
+      "left": "G1",
+      "right": "G2",
+      "network": "10.69.0.0/20"
+    },
+    {
+      "id": "I1",
+      "row": 65,
+      "left": "D3",
+      "right": "H1",
+      "network": "10.69.0.0/19"
+    }
+  ],
+  "simulation_verified": false
+}

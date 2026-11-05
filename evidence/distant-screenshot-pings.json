@@ -1,0 +1,27 @@
+{
+  "started_at_utc": "2026-11-05T15:28:22.546240+00:00",
+  "finished_at_utc": "2026-11-05T15:28:28.754887+00:00",
+  "pkt": "cpt/K11-VLSM.pkt",
+  "pkt_sha256": "5080485f03ef87ef62e302a35c0e135009e5dc8ac22e51c2e42e6ca016351cc9",
+  "method": "Actual Packet Tracer CLI; reciprocal pings repeated for GUI screenshot capture",
+  "tests": {
+    "Cyberia": {
+      "command": "ping 10.69.15.130",
+      "output": "ping 10.69.15.130\n\nType escape sequence to abort.\nSending 5, 100-byte ICMP Echos to 10.69.15.130, timeout is 2 seconds:\n!!!!!\nSuccess rate is 100 percent (5/5), round-trip min/avg/max = 0/4/20 ms\n\nCyberia#",
+      "completed": {
+        "inputCommand": "ping 10.69.15.130",
+        "status": 0
+      },
+      "completion_basis": "target-matched ping statistics followed by terminal prompt"
+    },
+    "Lain": {
+      "command": "ping 10.69.14.1",
+      "output": "ping 10.69.14.1\n\nPinging 10.69.14.1 with 32 bytes of data:\n\nReply from 10.69.14.1: bytes=32 time<1ms TTL=248\nReply from 10.69.14.1: bytes=32 time<1ms TTL=248\nReply from 10.69.14.1: bytes=32 time<1ms TTL=248\nReply from 10.69.14.1: bytes=32 time=1ms TTL=248\n\nPing statistics for 10.69.14.1:\n    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),\nApproximate round trip times in milli-seconds:\n    Minimum = 0ms, Maximum = 1ms, Average = 0ms\n\nC:\\>",
+      "completed": {
+        "inputCommand": "ping 10.69.14.1",
+        "status": 0
+      },
+      "completion_basis": "target-matched ping statistics followed by terminal prompt"
+    }
+  }
+}

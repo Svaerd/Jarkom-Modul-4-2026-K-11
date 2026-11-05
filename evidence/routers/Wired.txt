@@ -1,0 +1,271 @@
+Wired# show running-config
+Building configuration...
+
+Current configuration : 1812 bytes
+!
+version 12.4
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname Wired
+!
+!
+!
+!
+!
+!
+!
+!
+no ip cef
+no ipv6 cef
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+no ip domain-lookup
+!
+!
+spanning-tree mode pvst
+!
+!
+!
+!
+!
+!
+interface FastEthernet0/0
+ description A17 - Cyberia
+ ip address 10.69.16.154 255.255.255.252
+ duplex auto
+ speed auto
+!
+interface FastEthernet0/1
+ description A14 - Switch2
+ ip address 10.69.16.129 255.255.255.248
+ duplex auto
+ speed auto
+!
+interface FastEthernet1/0
+ description A18 - Navi
+ ip address 10.69.16.157 255.255.255.252
+ duplex auto
+ speed auto
+!
+interface FastEthernet1/1
+ description A19 - Tachibana
+ ip address 10.69.16.161 255.255.255.252
+ duplex auto
+ speed auto
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+ip classless
+ip route 10.69.10.0 255.255.254.0 10.69.16.162 
+ip route 10.69.15.0 255.255.255.128 10.69.16.162 
+ip route 10.69.15.128 255.255.255.192 10.69.16.162 
+ip route 10.69.16.0 255.255.255.192 10.69.16.162 
+ip route 10.69.16.96 255.255.255.224 10.69.16.162 
+ip route 10.69.16.144 255.255.255.248 10.69.16.162 
+ip route 10.69.16.168 255.255.255.248 10.69.16.162 
+ip route 10.69.16.176 255.255.255.248 10.69.16.162 
+ip route 10.69.16.184 255.255.255.252 10.69.16.162 
+ip route 10.69.12.0 255.255.254.0 10.69.16.158 
+ip route 10.69.15.192 255.255.255.192 10.69.16.158 
+ip route 10.69.0.0 255.255.252.0 10.69.16.130 
+ip route 10.69.8.0 255.255.254.0 10.69.16.131 
+ip route 10.69.4.0 255.255.252.0 10.69.16.132 
+ip route 10.69.16.136 255.255.255.248 10.69.16.132 
+ip route 10.69.16.164 255.255.255.252 10.69.16.132 
+ip route 10.69.14.0 255.255.255.128 10.69.16.153 
+ip route 10.69.14.128 255.255.255.192 10.69.16.131 
+!
+ip flow-export version 9
+!
+!
+!
+!
+!
+!
+!
+!
+line con 0
+!
+line aux 0
+!
+line vty 0 4
+ login
+!
+!
+!
+end
+
+
+
+
+Wired# show startup-config
+Using 1812 bytes
+!
+version 12.4
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname Wired
+!
+!
+!
+!
+!
+!
+!
+!
+no ip cef
+no ipv6 cef
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+no ip domain-lookup
+!
+!
+spanning-tree mode pvst
+!
+!
+!
+!
+!
+!
+interface FastEthernet0/0
+ description A17 - Cyberia
+ ip address 10.69.16.154 255.255.255.252
+ duplex auto
+ speed auto
+!
+interface FastEthernet0/1
+ description A14 - Switch2
+ ip address 10.69.16.129 255.255.255.248
+ duplex auto
+ speed auto
+!
+interface FastEthernet1/0
+ description A18 - Navi
+ ip address 10.69.16.157 255.255.255.252
+ duplex auto
+ speed auto
+!
+interface FastEthernet1/1
+ description A19 - Tachibana
+ ip address 10.69.16.161 255.255.255.252
+ duplex auto
+ speed auto
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+ip classless
+ip route 10.69.10.0 255.255.254.0 10.69.16.162 
+ip route 10.69.15.0 255.255.255.128 10.69.16.162 
+ip route 10.69.15.128 255.255.255.192 10.69.16.162 
+ip route 10.69.16.0 255.255.255.192 10.69.16.162 
+ip route 10.69.16.96 255.255.255.224 10.69.16.162 
+ip route 10.69.16.144 255.255.255.248 10.69.16.162 
+ip route 10.69.16.168 255.255.255.248 10.69.16.162 
+ip route 10.69.16.176 255.255.255.248 10.69.16.162 
+ip route 10.69.16.184 255.255.255.252 10.69.16.162 
+ip route 10.69.12.0 255.255.254.0 10.69.16.158 
+ip route 10.69.15.192 255.255.255.192 10.69.16.158 
+ip route 10.69.0.0 255.255.252.0 10.69.16.130 
+ip route 10.69.8.0 255.255.254.0 10.69.16.131 
+ip route 10.69.4.0 255.255.252.0 10.69.16.132 
+ip route 10.69.16.136 255.255.255.248 10.69.16.132 
+ip route 10.69.16.164 255.255.255.252 10.69.16.132 
+ip route 10.69.14.0 255.255.255.128 10.69.16.153 
+ip route 10.69.14.128 255.255.255.192 10.69.16.131 
+!
+ip flow-export version 9
+!
+!
+!
+!
+!
+!
+!
+!
+line con 0
+!
+line aux 0
+!
+line vty 0 4
+ login
+!
+!
+!
+end
+
+
+
+
+Wired# show ip interface brief
+Interface              IP-Address      OK? Method Status                Protocol 
+FastEthernet0/0        10.69.16.154    YES manual up                    up 
+FastEthernet0/1        10.69.16.129    YES manual up                    up 
+FastEthernet1/0        10.69.16.157    YES manual up                    up 
+FastEthernet1/1        10.69.16.161    YES manual up                    up 
+Vlan1                  unassigned      YES unset  administratively down down
+
+
+Wired# show ip route
+Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP
+       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area
+       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2
+       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP
+       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area
+       * - candidate default, U - per-user static route, o - ODR
+       P - periodic downloaded static route
+
+Gateway of last resort is not set
+
+     10.0.0.0/8 is variably subnetted, 22 subnets, 7 masks
+S       10.69.0.0/22 [1/0] via 10.69.16.130
+S       10.69.4.0/22 [1/0] via 10.69.16.132
+S       10.69.8.0/23 [1/0] via 10.69.16.131
+S       10.69.10.0/23 [1/0] via 10.69.16.162
+S       10.69.12.0/23 [1/0] via 10.69.16.158
+S       10.69.14.0/25 [1/0] via 10.69.16.153
+S       10.69.14.128/26 [1/0] via 10.69.16.131
+S       10.69.15.0/25 [1/0] via 10.69.16.162
+S       10.69.15.128/26 [1/0] via 10.69.16.162
+S       10.69.15.192/26 [1/0] via 10.69.16.158
+S       10.69.16.0/26 [1/0] via 10.69.16.162
+S       10.69.16.96/27 [1/0] via 10.69.16.162
+C       10.69.16.128/29 is directly connected, FastEthernet0/1
+S       10.69.16.136/29 [1/0] via 10.69.16.132
+S       10.69.16.144/29 [1/0] via 10.69.16.162
+C       10.69.16.152/30 is directly connected, FastEthernet0/0
+C       10.69.16.156/30 is directly connected, FastEthernet1/0
+C       10.69.16.160/30 is directly connected, FastEthernet1/1
+S       10.69.16.164/30 [1/0] via 10.69.16.132
+S       10.69.16.168/29 [1/0] via 10.69.16.162
+S       10.69.16.176/29 [1/0] via 10.69.16.162
+S       10.69.16.184/30 [1/0] via 10.69.16.162
+
+

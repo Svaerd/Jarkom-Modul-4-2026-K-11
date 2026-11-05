@@ -1,0 +1,46 @@
+{
+  "checked_at_utc": "2026-11-05T15:33:02.027824+00:00",
+  "status": "passed",
+  "pkt_sha256": "5080485f03ef87ef62e302a35c0e135009e5dc8ac22e51c2e42e6ca016351cc9",
+  "subnets": 25,
+  "required_addresses": 2814,
+  "allocated_addresses": 4188,
+  "free_addresses": 4004,
+  "cidr_subnets": 25,
+  "cidr_merges": 24,
+  "cidr_simulation_verified": false,
+  "unique_interface_addresses": 62,
+  "routers_with_matching_running_and_startup": 13,
+  "static_routes": 54,
+  "modeled_router_to_address_paths": 806,
+  "actual_gateway_tests": 25,
+  "actual_directed_pair_tests": 1406,
+  "final_run_retries": 0,
+  "completion_event_anomalies": [
+    {
+      "source": "JJ",
+      "destination": "Navi",
+      "destination_ip": "10.69.12.1",
+      "observed_event": null
+    },
+    {
+      "source": "Cyberia",
+      "destination": "Reika",
+      "destination_ip": "10.69.12.210",
+      "observed_event": {
+        "inputCommand": "ping 10.69.16.1",
+        "status": 0
+      }
+    },
+    {
+      "source": "Phantoma",
+      "destination": "Protocol7",
+      "destination_ip": "10.69.16.1",
+      "observed_event": null
+    }
+  ],
+  "completion_event_anomaly_count": 3,
+  "corrected_host_labels": 25,
+  "screenshots_checked": 17,
+  "local_document_links": 99
+}

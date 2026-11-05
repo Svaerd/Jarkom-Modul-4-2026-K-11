@@ -1,0 +1,209 @@
+Phantoma# show running-config
+Building configuration...
+
+Current configuration : 880 bytes
+!
+version 12.4
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname Phantoma
+!
+!
+!
+!
+!
+!
+!
+!
+no ip cef
+no ipv6 cef
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+no ip domain-lookup
+!
+!
+spanning-tree mode pvst
+!
+!
+!
+!
+!
+!
+interface FastEthernet0/0
+ description A24 - Knights
+ ip address 10.69.16.182 255.255.255.252
+ duplex auto
+ speed auto
+!
+interface FastEthernet0/1
+ description A13 - Switch12
+ ip address 10.69.16.97 255.255.255.224
+ duplex auto
+ speed auto
+!
+interface FastEthernet1/0
+ description A25 - Shibuya
+ ip address 10.69.16.185 255.255.255.252
+ duplex auto
+ speed auto
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+ip classless
+ip route 0.0.0.0 0.0.0.0 10.69.16.181 
+ip route 10.69.15.128 255.255.255.192 10.69.16.186 
+!
+ip flow-export version 9
+!
+!
+!
+!
+!
+!
+!
+!
+line con 0
+!
+line aux 0
+!
+line vty 0 4
+ login
+!
+!
+!
+end
+
+
+
+
+Phantoma# show startup-config
+Using 880 bytes
+!
+version 12.4
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname Phantoma
+!
+!
+!
+!
+!
+!
+!
+!
+no ip cef
+no ipv6 cef
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+no ip domain-lookup
+!
+!
+spanning-tree mode pvst
+!
+!
+!
+!
+!
+!
+interface FastEthernet0/0
+ description A24 - Knights
+ ip address 10.69.16.182 255.255.255.252
+ duplex auto
+ speed auto
+!
+interface FastEthernet0/1
+ description A13 - Switch12
+ ip address 10.69.16.97 255.255.255.224
+ duplex auto
+ speed auto
+!
+interface FastEthernet1/0
+ description A25 - Shibuya
+ ip address 10.69.16.185 255.255.255.252
+ duplex auto
+ speed auto
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+ip classless
+ip route 0.0.0.0 0.0.0.0 10.69.16.181 
+ip route 10.69.15.128 255.255.255.192 10.69.16.186 
+!
+ip flow-export version 9
+!
+!
+!
+!
+!
+!
+!
+!
+line con 0
+!
+line aux 0
+!
+line vty 0 4
+ login
+!
+!
+!
+end
+
+
+
+
+Phantoma# show ip interface brief
+Interface              IP-Address      OK? Method Status                Protocol 
+FastEthernet0/0        10.69.16.182    YES manual up                    up 
+FastEthernet0/1        10.69.16.97     YES manual up                    up 
+FastEthernet1/0        10.69.16.185    YES manual up                    up 
+Vlan1                  unassigned      YES unset  administratively down down
+
+
+Phantoma# show ip route
+Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP
+       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area
+       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2
+       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP
+       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area
+       * - candidate default, U - per-user static route, o - ODR
+       P - periodic downloaded static route
+
+Gateway of last resort is 10.69.16.181 to network 0.0.0.0
+
+     10.0.0.0/8 is variably subnetted, 4 subnets, 3 masks
+S       10.69.15.128/26 [1/0] via 10.69.16.186
+C       10.69.16.96/27 is directly connected, FastEthernet0/1
+C       10.69.16.180/30 is directly connected, FastEthernet0/0
+C       10.69.16.184/30 is directly connected, FastEthernet1/0
+S*   0.0.0.0/0 [1/0] via 10.69.16.181
+
+

@@ -1,0 +1,2024 @@
+{
+  "file": "/home/host2/Projects/praktikum/pjarkom/Jarkom-Modul-4-2026-K-11/cpt/K11-VLSM.pkt",
+  "devices": [
+    {
+      "name": "Cyberia",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Power Distribution Device0",
+      "type": 45,
+      "model": "Power Distribution Device"
+    },
+    {
+      "name": "Cloud",
+      "type": 2,
+      "model": "Cloud-PT"
+    },
+    {
+      "name": "Switch1",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "JJ",
+      "type": 8,
+      "model": "PC-PT"
+    },
+    {
+      "name": "MyuMyu",
+      "type": 18,
+      "model": "Laptop-PT"
+    },
+    {
+      "name": "Wired",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Switch2",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "Tachibana",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Navi",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Psyche",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Copland",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Schumann",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Switch3",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "Karl",
+      "type": 9,
+      "model": "Server-PT"
+    },
+    {
+      "name": "Lin",
+      "type": 9,
+      "model": "Server-PT"
+    },
+    {
+      "name": "Juri",
+      "type": 18,
+      "model": "Laptop-PT"
+    },
+    {
+      "name": "Switch4",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "Masayuki",
+      "type": 18,
+      "model": "Laptop-PT"
+    },
+    {
+      "name": "Akashic",
+      "type": 9,
+      "model": "Server-PT"
+    },
+    {
+      "name": "Power Distribution Device1",
+      "type": 45,
+      "model": "Power Distribution Device"
+    },
+    {
+      "name": "Accela",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Switch5",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "Omnipresence",
+      "type": 8,
+      "model": "PC-PT"
+    },
+    {
+      "name": "Denpa",
+      "type": 18,
+      "model": "Laptop-PT"
+    },
+    {
+      "name": "Switch9",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "Collective",
+      "type": 9,
+      "model": "Server-PT"
+    },
+    {
+      "name": "Power Distribution Device2",
+      "type": 45,
+      "model": "Power Distribution Device"
+    },
+    {
+      "name": "Ghost",
+      "type": 8,
+      "model": "PC-PT"
+    },
+    {
+      "name": "Deus",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Switch10",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "Lilith",
+      "type": 18,
+      "model": "Laptop-PT"
+    },
+    {
+      "name": "Specter",
+      "type": 8,
+      "model": "PC-PT"
+    },
+    {
+      "name": "Protocol7",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Switch11",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "Chisa",
+      "type": 18,
+      "model": "Laptop-PT"
+    },
+    {
+      "name": "Hodgeson",
+      "type": 8,
+      "model": "PC-PT"
+    },
+    {
+      "name": "Knights",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Eiri",
+      "type": 9,
+      "model": "Server-PT"
+    },
+    {
+      "name": "Phantoma",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Switch12",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "Semi",
+      "type": 8,
+      "model": "PC-PT"
+    },
+    {
+      "name": "Shibuya",
+      "type": 0,
+      "model": "2811"
+    },
+    {
+      "name": "Switch13",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "Lain",
+      "type": 18,
+      "model": "Laptop-PT"
+    },
+    {
+      "name": "Mika",
+      "type": 8,
+      "model": "PC-PT"
+    },
+    {
+      "name": "Switch6",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "Alice",
+      "type": 18,
+      "model": "Laptop-PT"
+    },
+    {
+      "name": "Reika",
+      "type": 8,
+      "model": "PC-PT"
+    },
+    {
+      "name": "Switch7",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "Taro",
+      "type": 8,
+      "model": "PC-PT"
+    },
+    {
+      "name": "Switch8",
+      "type": 1,
+      "model": "Switch-PT"
+    },
+    {
+      "name": "Yasuo",
+      "type": 8,
+      "model": "PC-PT"
+    },
+    {
+      "name": "Miho",
+      "type": 18,
+      "model": "Laptop-PT"
+    },
+    {
+      "name": "Kuma",
+      "type": 9,
+      "model": "Server-PT"
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cloud",
+      "type": 2,
+      "model": "Cloud-PT",
+      "ports": [
+        "Serial0",
+        "Serial1",
+        "Serial2",
+        "Serial3",
+        "Modem4",
+        "Modem5",
+        "Ethernet6",
+        "Coaxial7"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Cyberia",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1",
+        "FastEthernet1/0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.14.1",
+          "mask": "255.255.255.128",
+          "up": true
+        },
+        {
+          "port": "FastEthernet1/0",
+          "ip": "10.69.16.153",
+          "mask": "255.255.255.252",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 839 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Cyberia\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description Cloud uplink - external addressing not specified\n no ip address\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A7 - Switch1\n ip address 10.69.14.1 255.255.255.128\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A17 - Wired\n ip address 10.69.16.153 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 10.69.0.0 255.255.224.0 10.69.16.154 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 839 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Cyberia\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description Cloud uplink - external addressing not specified\n no ip address\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A7 - Switch1\n ip address 10.69.14.1 255.255.255.128\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A17 - Wired\n ip address 10.69.16.153 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 10.69.0.0 255.255.224.0 10.69.16.154 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        unassigned      YES unset  up                    up \nFastEthernet0/1        10.69.14.1      YES manual up                    up \nFastEthernet1/0        10.69.16.153    YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is not set\n\n     10.0.0.0/8 is variably subnetted, 3 subnets, 3 masks\nS       10.69.0.0/19 [1/0] via 10.69.16.154\nC       10.69.14.0/25 is directly connected, FastEthernet0/1\nC       10.69.16.152/30 is directly connected, FastEthernet1/0\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Switch1",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "JJ",
+      "type": 8,
+      "model": "PC-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.14.2",
+          "mask": "255.255.255.128",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.14.1"
+    },
+    {
+      "name": "MyuMyu",
+      "type": 18,
+      "model": "Laptop-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.14.97",
+          "mask": "255.255.255.128",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.14.1"
+    },
+    {
+      "name": "Wired",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1",
+        "FastEthernet1/0",
+        "FastEthernet1/1"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.16.129",
+          "mask": "255.255.255.248",
+          "up": true
+        },
+        {
+          "port": "FastEthernet0/0",
+          "ip": "10.69.16.154",
+          "mask": "255.255.255.252",
+          "up": true
+        },
+        {
+          "port": "FastEthernet1/0",
+          "ip": "10.69.16.157",
+          "mask": "255.255.255.252",
+          "up": true
+        },
+        {
+          "port": "FastEthernet1/1",
+          "ip": "10.69.16.161",
+          "mask": "255.255.255.252",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 1812 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Wired\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A17 - Cyberia\n ip address 10.69.16.154 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A14 - Switch2\n ip address 10.69.16.129 255.255.255.248\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A18 - Navi\n ip address 10.69.16.157 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet1/1\n description A19 - Tachibana\n ip address 10.69.16.161 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 10.69.10.0 255.255.254.0 10.69.16.162 \nip route 10.69.15.0 255.255.255.128 10.69.16.162 \nip route 10.69.15.128 255.255.255.192 10.69.16.162 \nip route 10.69.16.0 255.255.255.192 10.69.16.162 \nip route 10.69.16.96 255.255.255.224 10.69.16.162 \nip route 10.69.16.144 255.255.255.248 10.69.16.162 \nip route 10.69.16.168 255.255.255.248 10.69.16.162 \nip route 10.69.16.176 255.255.255.248 10.69.16.162 \nip route 10.69.16.184 255.255.255.252 10.69.16.162 \nip route 10.69.12.0 255.255.254.0 10.69.16.158 \nip route 10.69.15.192 255.255.255.192 10.69.16.158 \nip route 10.69.0.0 255.255.252.0 10.69.16.130 \nip route 10.69.8.0 255.255.254.0 10.69.16.131 \nip route 10.69.4.0 255.255.252.0 10.69.16.132 \nip route 10.69.16.136 255.255.255.248 10.69.16.132 \nip route 10.69.16.164 255.255.255.252 10.69.16.132 \nip route 10.69.14.0 255.255.255.128 10.69.16.153 \nip route 10.69.14.128 255.255.255.192 10.69.16.131 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 1812 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Wired\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A17 - Cyberia\n ip address 10.69.16.154 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A14 - Switch2\n ip address 10.69.16.129 255.255.255.248\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A18 - Navi\n ip address 10.69.16.157 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet1/1\n description A19 - Tachibana\n ip address 10.69.16.161 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 10.69.10.0 255.255.254.0 10.69.16.162 \nip route 10.69.15.0 255.255.255.128 10.69.16.162 \nip route 10.69.15.128 255.255.255.192 10.69.16.162 \nip route 10.69.16.0 255.255.255.192 10.69.16.162 \nip route 10.69.16.96 255.255.255.224 10.69.16.162 \nip route 10.69.16.144 255.255.255.248 10.69.16.162 \nip route 10.69.16.168 255.255.255.248 10.69.16.162 \nip route 10.69.16.176 255.255.255.248 10.69.16.162 \nip route 10.69.16.184 255.255.255.252 10.69.16.162 \nip route 10.69.12.0 255.255.254.0 10.69.16.158 \nip route 10.69.15.192 255.255.255.192 10.69.16.158 \nip route 10.69.0.0 255.255.252.0 10.69.16.130 \nip route 10.69.8.0 255.255.254.0 10.69.16.131 \nip route 10.69.4.0 255.255.252.0 10.69.16.132 \nip route 10.69.16.136 255.255.255.248 10.69.16.132 \nip route 10.69.16.164 255.255.255.252 10.69.16.132 \nip route 10.69.14.0 255.255.255.128 10.69.16.153 \nip route 10.69.14.128 255.255.255.192 10.69.16.131 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        10.69.16.154    YES manual up                    up \nFastEthernet0/1        10.69.16.129    YES manual up                    up \nFastEthernet1/0        10.69.16.157    YES manual up                    up \nFastEthernet1/1        10.69.16.161    YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is not set\n\n     10.0.0.0/8 is variably subnetted, 22 subnets, 7 masks\nS       10.69.0.0/22 [1/0] via 10.69.16.130\nS       10.69.4.0/22 [1/0] via 10.69.16.132\nS       10.69.8.0/23 [1/0] via 10.69.16.131\nS       10.69.10.0/23 [1/0] via 10.69.16.162\nS       10.69.12.0/23 [1/0] via 10.69.16.158\nS       10.69.14.0/25 [1/0] via 10.69.16.153\nS       10.69.14.128/26 [1/0] via 10.69.16.131\nS       10.69.15.0/25 [1/0] via 10.69.16.162\nS       10.69.15.128/26 [1/0] via 10.69.16.162\nS       10.69.15.192/26 [1/0] via 10.69.16.158\nS       10.69.16.0/26 [1/0] via 10.69.16.162\nS       10.69.16.96/27 [1/0] via 10.69.16.162\nC       10.69.16.128/29 is directly connected, FastEthernet0/1\nS       10.69.16.136/29 [1/0] via 10.69.16.132\nS       10.69.16.144/29 [1/0] via 10.69.16.162\nC       10.69.16.152/30 is directly connected, FastEthernet0/0\nC       10.69.16.156/30 is directly connected, FastEthernet1/0\nC       10.69.16.160/30 is directly connected, FastEthernet1/1\nS       10.69.16.164/30 [1/0] via 10.69.16.132\nS       10.69.16.168/29 [1/0] via 10.69.16.162\nS       10.69.16.176/29 [1/0] via 10.69.16.162\nS       10.69.16.184/30 [1/0] via 10.69.16.162\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Switch2",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Tachibana",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1",
+        "FastEthernet1/0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.10.1",
+          "mask": "255.255.254.0",
+          "up": true
+        },
+        {
+          "port": "FastEthernet0/0",
+          "ip": "10.69.16.162",
+          "mask": "255.255.255.252",
+          "up": true
+        },
+        {
+          "port": "FastEthernet1/0",
+          "ip": "10.69.16.169",
+          "mask": "255.255.255.252",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 1230 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Tachibana\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A19 - Wired\n ip address 10.69.16.162 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A4 - Switch9\n ip address 10.69.10.1 255.255.254.0\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A21 - Deus\n ip address 10.69.16.169 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.161 \nip route 10.69.15.0 255.255.255.128 10.69.16.170 \nip route 10.69.15.128 255.255.255.192 10.69.16.170 \nip route 10.69.16.0 255.255.255.192 10.69.16.170 \nip route 10.69.16.96 255.255.255.224 10.69.16.170 \nip route 10.69.16.144 255.255.255.248 10.69.16.170 \nip route 10.69.16.172 255.255.255.252 10.69.16.170 \nip route 10.69.16.176 255.255.255.248 10.69.16.170 \nip route 10.69.16.184 255.255.255.252 10.69.16.170 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 1230 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Tachibana\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A19 - Wired\n ip address 10.69.16.162 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A4 - Switch9\n ip address 10.69.10.1 255.255.254.0\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A21 - Deus\n ip address 10.69.16.169 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.161 \nip route 10.69.15.0 255.255.255.128 10.69.16.170 \nip route 10.69.15.128 255.255.255.192 10.69.16.170 \nip route 10.69.16.0 255.255.255.192 10.69.16.170 \nip route 10.69.16.96 255.255.255.224 10.69.16.170 \nip route 10.69.16.144 255.255.255.248 10.69.16.170 \nip route 10.69.16.172 255.255.255.252 10.69.16.170 \nip route 10.69.16.176 255.255.255.248 10.69.16.170 \nip route 10.69.16.184 255.255.255.252 10.69.16.170 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        10.69.16.162    YES manual up                    up \nFastEthernet0/1        10.69.10.1      YES manual up                    up \nFastEthernet1/0        10.69.16.169    YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is 10.69.16.161 to network 0.0.0.0\n\n     10.0.0.0/8 is variably subnetted, 11 subnets, 6 masks\nC       10.69.10.0/23 is directly connected, FastEthernet0/1\nS       10.69.15.0/25 [1/0] via 10.69.16.170\nS       10.69.15.128/26 [1/0] via 10.69.16.170\nS       10.69.16.0/26 [1/0] via 10.69.16.170\nS       10.69.16.96/27 [1/0] via 10.69.16.170\nS       10.69.16.144/29 [1/0] via 10.69.16.170\nC       10.69.16.160/30 is directly connected, FastEthernet0/0\nC       10.69.16.168/30 is directly connected, FastEthernet1/0\nS       10.69.16.172/30 [1/0] via 10.69.16.170\nS       10.69.16.176/29 [1/0] via 10.69.16.170\nS       10.69.16.184/30 [1/0] via 10.69.16.170\nS*   0.0.0.0/0 [1/0] via 10.69.16.161\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Navi",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1",
+        "FastEthernet1/0",
+        "FastEthernet1/1"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.12.1",
+          "mask": "255.255.255.0",
+          "up": true
+        },
+        {
+          "port": "FastEthernet1/1",
+          "ip": "10.69.13.1",
+          "mask": "255.255.255.0",
+          "up": true
+        },
+        {
+          "port": "FastEthernet1/0",
+          "ip": "10.69.15.193",
+          "mask": "255.255.255.192",
+          "up": true
+        },
+        {
+          "port": "FastEthernet0/0",
+          "ip": "10.69.16.158",
+          "mask": "255.255.255.252",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 933 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Navi\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A18 - Wired\n ip address 10.69.16.158 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A5 - Switch6\n ip address 10.69.12.1 255.255.255.0\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A10 - Switch7\n ip address 10.69.15.193 255.255.255.192\n duplex auto\n speed auto\n!\ninterface FastEthernet1/1\n description A6 - Switch8\n ip address 10.69.13.1 255.255.255.0\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.157 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 933 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Navi\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A18 - Wired\n ip address 10.69.16.158 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A5 - Switch6\n ip address 10.69.12.1 255.255.255.0\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A10 - Switch7\n ip address 10.69.15.193 255.255.255.192\n duplex auto\n speed auto\n!\ninterface FastEthernet1/1\n description A6 - Switch8\n ip address 10.69.13.1 255.255.255.0\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.157 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        10.69.16.158    YES manual up                    up \nFastEthernet0/1        10.69.12.1      YES manual up                    up \nFastEthernet1/0        10.69.15.193    YES manual up                    up \nFastEthernet1/1        10.69.13.1      YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is 10.69.16.157 to network 0.0.0.0\n\n     10.0.0.0/8 is variably subnetted, 4 subnets, 3 masks\nC       10.69.12.0/24 is directly connected, FastEthernet0/1\nC       10.69.13.0/24 is directly connected, FastEthernet1/1\nC       10.69.15.192/26 is directly connected, FastEthernet1/0\nC       10.69.16.156/30 is directly connected, FastEthernet0/0\nS*   0.0.0.0/0 [1/0] via 10.69.16.157\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Psyche",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.0.1",
+          "mask": "255.255.252.0",
+          "up": true
+        },
+        {
+          "port": "FastEthernet0/0",
+          "ip": "10.69.16.130",
+          "mask": "255.255.255.248",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 696 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Psyche\n!\n!\n!\n!\n!\n!\n!\n!\nip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A14 - Switch2\n ip address 10.69.16.130 255.255.255.248\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A1 - Switch3\n ip address 10.69.0.1 255.255.252.0\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.129 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 696 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Psyche\n!\n!\n!\n!\n!\n!\n!\n!\nip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A14 - Switch2\n ip address 10.69.16.130 255.255.255.248\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A1 - Switch3\n ip address 10.69.0.1 255.255.252.0\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.129 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        10.69.16.130    YES manual up                    up \nFastEthernet0/1        10.69.0.1       YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is 10.69.16.129 to network 0.0.0.0\n\n     10.0.0.0/8 is variably subnetted, 2 subnets, 2 masks\nC       10.69.0.0/22 is directly connected, FastEthernet0/1\nC       10.69.16.128/29 is directly connected, FastEthernet0/0\nS*   0.0.0.0/0 [1/0] via 10.69.16.129\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Copland",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1",
+        "FastEthernet1/0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.8.1",
+          "mask": "255.255.254.0",
+          "up": true
+        },
+        {
+          "port": "FastEthernet1/0",
+          "ip": "10.69.14.129",
+          "mask": "255.255.255.192",
+          "up": true
+        },
+        {
+          "port": "FastEthernet0/0",
+          "ip": "10.69.16.131",
+          "mask": "255.255.255.248",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 817 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Copland\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A14 - Switch2\n ip address 10.69.16.131 255.255.255.248\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A3 - Switch4\n ip address 10.69.8.1 255.255.254.0\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A9 - Juri\n ip address 10.69.14.129 255.255.255.192\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.129 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 817 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Copland\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A14 - Switch2\n ip address 10.69.16.131 255.255.255.248\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A3 - Switch4\n ip address 10.69.8.1 255.255.254.0\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A9 - Juri\n ip address 10.69.14.129 255.255.255.192\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.129 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        10.69.16.131    YES manual up                    up \nFastEthernet0/1        10.69.8.1       YES manual up                    up \nFastEthernet1/0        10.69.14.129    YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is 10.69.16.129 to network 0.0.0.0\n\n     10.0.0.0/8 is variably subnetted, 3 subnets, 3 masks\nC       10.69.8.0/23 is directly connected, FastEthernet0/1\nC       10.69.14.128/26 is directly connected, FastEthernet1/0\nC       10.69.16.128/29 is directly connected, FastEthernet0/0\nS*   0.0.0.0/0 [1/0] via 10.69.16.129\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Schumann",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1",
+        "FastEthernet1/0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.16.137",
+          "mask": "255.255.255.248",
+          "up": true
+        },
+        {
+          "port": "FastEthernet0/0",
+          "ip": "10.69.16.132",
+          "mask": "255.255.255.248",
+          "up": true
+        },
+        {
+          "port": "FastEthernet1/0",
+          "ip": "10.69.16.165",
+          "mask": "255.255.255.252",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 874 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Schumann\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A14 - Switch2\n ip address 10.69.16.132 255.255.255.248\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A15 - Akashic\n ip address 10.69.16.137 255.255.255.248\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A20 - Accela\n ip address 10.69.16.165 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.129 \nip route 10.69.4.0 255.255.252.0 10.69.16.166 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 874 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Schumann\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A14 - Switch2\n ip address 10.69.16.132 255.255.255.248\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A15 - Akashic\n ip address 10.69.16.137 255.255.255.248\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A20 - Accela\n ip address 10.69.16.165 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.129 \nip route 10.69.4.0 255.255.252.0 10.69.16.166 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        10.69.16.132    YES manual up                    up \nFastEthernet0/1        10.69.16.137    YES manual up                    up \nFastEthernet1/0        10.69.16.165    YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is 10.69.16.129 to network 0.0.0.0\n\n     10.0.0.0/8 is variably subnetted, 4 subnets, 3 masks\nS       10.69.4.0/22 [1/0] via 10.69.16.166\nC       10.69.16.128/29 is directly connected, FastEthernet0/0\nC       10.69.16.136/29 is directly connected, FastEthernet0/1\nC       10.69.16.164/30 is directly connected, FastEthernet1/0\nS*   0.0.0.0/0 [1/0] via 10.69.16.129\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Switch3",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Karl",
+      "type": 9,
+      "model": "Server-PT",
+      "ports": [
+        "FastEthernet0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.0.2",
+          "mask": "255.255.252.0",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.0.1"
+    },
+    {
+      "name": "Lin",
+      "type": 9,
+      "model": "Server-PT",
+      "ports": [
+        "FastEthernet0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.2.190",
+          "mask": "255.255.252.0",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.0.1"
+    },
+    {
+      "name": "Juri",
+      "type": 18,
+      "model": "Laptop-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.14.130",
+          "mask": "255.255.255.192",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.14.129"
+    },
+    {
+      "name": "Switch4",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Masayuki",
+      "type": 18,
+      "model": "Laptop-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.8.2",
+          "mask": "255.255.254.0",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.8.1"
+    },
+    {
+      "name": "Akashic",
+      "type": 9,
+      "model": "Server-PT",
+      "ports": [
+        "FastEthernet0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.16.138",
+          "mask": "255.255.255.248",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.16.137"
+    },
+    {
+      "name": "Accela",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.4.1",
+          "mask": "255.255.252.0",
+          "up": true
+        },
+        {
+          "port": "FastEthernet0/0",
+          "ip": "10.69.16.166",
+          "mask": "255.255.255.252",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 697 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Accela\n!\n!\n!\n!\n!\n!\n!\n!\nip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A20 - Schumann\n ip address 10.69.16.166 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A2 - Switch5\n ip address 10.69.4.1 255.255.252.0\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.165 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 697 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Accela\n!\n!\n!\n!\n!\n!\n!\n!\nip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A20 - Schumann\n ip address 10.69.16.166 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A2 - Switch5\n ip address 10.69.4.1 255.255.252.0\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.165 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        10.69.16.166    YES manual up                    up \nFastEthernet0/1        10.69.4.1       YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is 10.69.16.165 to network 0.0.0.0\n\n     10.0.0.0/8 is variably subnetted, 2 subnets, 2 masks\nC       10.69.4.0/22 is directly connected, FastEthernet0/1\nC       10.69.16.164/30 is directly connected, FastEthernet0/0\nS*   0.0.0.0/0 [1/0] via 10.69.16.165\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Switch5",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Omnipresence",
+      "type": 8,
+      "model": "PC-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.4.2",
+          "mask": "255.255.252.0",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.4.1"
+    },
+    {
+      "name": "Denpa",
+      "type": 18,
+      "model": "Laptop-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.6.0",
+          "mask": "255.255.252.0",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.4.1"
+    },
+    {
+      "name": "Switch9",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Collective",
+      "type": 9,
+      "model": "Server-PT",
+      "ports": [
+        "FastEthernet0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.10.2",
+          "mask": "255.255.254.0",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.10.1"
+    },
+    {
+      "name": "Ghost",
+      "type": 8,
+      "model": "PC-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.11.6",
+          "mask": "255.255.254.0",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.10.1"
+    },
+    {
+      "name": "Deus",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1",
+        "FastEthernet1/0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.15.1",
+          "mask": "255.255.255.128",
+          "up": true
+        },
+        {
+          "port": "FastEthernet0/0",
+          "ip": "10.69.16.170",
+          "mask": "255.255.255.252",
+          "up": true
+        },
+        {
+          "port": "FastEthernet1/0",
+          "ip": "10.69.16.173",
+          "mask": "255.255.255.252",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 1135 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Deus\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A21 - Tachibana\n ip address 10.69.16.170 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A8 - Switch10\n ip address 10.69.15.1 255.255.255.128\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A22 - Protocol7\n ip address 10.69.16.173 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.169 \nip route 10.69.15.128 255.255.255.192 10.69.16.174 \nip route 10.69.16.0 255.255.255.192 10.69.16.174 \nip route 10.69.16.96 255.255.255.224 10.69.16.174 \nip route 10.69.16.144 255.255.255.248 10.69.16.174 \nip route 10.69.16.176 255.255.255.248 10.69.16.174 \nip route 10.69.16.184 255.255.255.252 10.69.16.174 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 1135 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Deus\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A21 - Tachibana\n ip address 10.69.16.170 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A8 - Switch10\n ip address 10.69.15.1 255.255.255.128\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A22 - Protocol7\n ip address 10.69.16.173 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.169 \nip route 10.69.15.128 255.255.255.192 10.69.16.174 \nip route 10.69.16.0 255.255.255.192 10.69.16.174 \nip route 10.69.16.96 255.255.255.224 10.69.16.174 \nip route 10.69.16.144 255.255.255.248 10.69.16.174 \nip route 10.69.16.176 255.255.255.248 10.69.16.174 \nip route 10.69.16.184 255.255.255.252 10.69.16.174 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        10.69.16.170    YES manual up                    up \nFastEthernet0/1        10.69.15.1      YES manual up                    up \nFastEthernet1/0        10.69.16.173    YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is 10.69.16.169 to network 0.0.0.0\n\n     10.0.0.0/8 is variably subnetted, 9 subnets, 5 masks\nC       10.69.15.0/25 is directly connected, FastEthernet0/1\nS       10.69.15.128/26 [1/0] via 10.69.16.174\nS       10.69.16.0/26 [1/0] via 10.69.16.174\nS       10.69.16.96/27 [1/0] via 10.69.16.174\nS       10.69.16.144/29 [1/0] via 10.69.16.174\nC       10.69.16.168/30 is directly connected, FastEthernet0/0\nC       10.69.16.172/30 is directly connected, FastEthernet1/0\nS       10.69.16.176/29 [1/0] via 10.69.16.174\nS       10.69.16.184/30 [1/0] via 10.69.16.174\nS*   0.0.0.0/0 [1/0] via 10.69.16.169\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Switch10",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Lilith",
+      "type": 18,
+      "model": "Laptop-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.15.2",
+          "mask": "255.255.255.128",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.15.1"
+    },
+    {
+      "name": "Specter",
+      "type": 8,
+      "model": "PC-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.15.79",
+          "mask": "255.255.255.128",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.15.1"
+    },
+    {
+      "name": "Protocol7",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1",
+        "FastEthernet1/0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.16.1",
+          "mask": "255.255.255.192",
+          "up": true
+        },
+        {
+          "port": "FastEthernet0/0",
+          "ip": "10.69.16.174",
+          "mask": "255.255.255.252",
+          "up": true
+        },
+        {
+          "port": "FastEthernet1/0",
+          "ip": "10.69.16.177",
+          "mask": "255.255.255.252",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 1084 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Protocol7\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A22 - Deus\n ip address 10.69.16.174 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A11 - Switch11\n ip address 10.69.16.1 255.255.255.192\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A23 - Knights\n ip address 10.69.16.177 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.173 \nip route 10.69.15.128 255.255.255.192 10.69.16.178 \nip route 10.69.16.96 255.255.255.224 10.69.16.178 \nip route 10.69.16.144 255.255.255.248 10.69.16.178 \nip route 10.69.16.180 255.255.255.252 10.69.16.178 \nip route 10.69.16.184 255.255.255.252 10.69.16.178 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 1084 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Protocol7\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A22 - Deus\n ip address 10.69.16.174 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A11 - Switch11\n ip address 10.69.16.1 255.255.255.192\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A23 - Knights\n ip address 10.69.16.177 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.173 \nip route 10.69.15.128 255.255.255.192 10.69.16.178 \nip route 10.69.16.96 255.255.255.224 10.69.16.178 \nip route 10.69.16.144 255.255.255.248 10.69.16.178 \nip route 10.69.16.180 255.255.255.252 10.69.16.178 \nip route 10.69.16.184 255.255.255.252 10.69.16.178 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        10.69.16.174    YES manual up                    up \nFastEthernet0/1        10.69.16.1      YES manual up                    up \nFastEthernet1/0        10.69.16.177    YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is 10.69.16.173 to network 0.0.0.0\n\n     10.0.0.0/8 is variably subnetted, 8 subnets, 4 masks\nS       10.69.15.128/26 [1/0] via 10.69.16.178\nC       10.69.16.0/26 is directly connected, FastEthernet0/1\nS       10.69.16.96/27 [1/0] via 10.69.16.178\nS       10.69.16.144/29 [1/0] via 10.69.16.178\nC       10.69.16.172/30 is directly connected, FastEthernet0/0\nC       10.69.16.176/30 is directly connected, FastEthernet1/0\nS       10.69.16.180/30 [1/0] via 10.69.16.178\nS       10.69.16.184/30 [1/0] via 10.69.16.178\nS*   0.0.0.0/0 [1/0] via 10.69.16.173\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Switch11",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Chisa",
+      "type": 18,
+      "model": "Laptop-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.16.2",
+          "mask": "255.255.255.192",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.16.1"
+    },
+    {
+      "name": "Hodgeson",
+      "type": 8,
+      "model": "PC-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.16.25",
+          "mask": "255.255.255.192",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.16.1"
+    },
+    {
+      "name": "Knights",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1",
+        "FastEthernet1/0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.16.145",
+          "mask": "255.255.255.248",
+          "up": true
+        },
+        {
+          "port": "FastEthernet0/0",
+          "ip": "10.69.16.178",
+          "mask": "255.255.255.252",
+          "up": true
+        },
+        {
+          "port": "FastEthernet1/0",
+          "ip": "10.69.16.181",
+          "mask": "255.255.255.252",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 982 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Knights\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A23 - Protocol7\n ip address 10.69.16.178 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A16 - Eiri\n ip address 10.69.16.145 255.255.255.248\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A24 - Phantoma\n ip address 10.69.16.181 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.177 \nip route 10.69.15.128 255.255.255.192 10.69.16.182 \nip route 10.69.16.96 255.255.255.224 10.69.16.182 \nip route 10.69.16.184 255.255.255.252 10.69.16.182 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 982 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Knights\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A23 - Protocol7\n ip address 10.69.16.178 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A16 - Eiri\n ip address 10.69.16.145 255.255.255.248\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A24 - Phantoma\n ip address 10.69.16.181 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.177 \nip route 10.69.15.128 255.255.255.192 10.69.16.182 \nip route 10.69.16.96 255.255.255.224 10.69.16.182 \nip route 10.69.16.184 255.255.255.252 10.69.16.182 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        10.69.16.178    YES manual up                    up \nFastEthernet0/1        10.69.16.145    YES manual up                    up \nFastEthernet1/0        10.69.16.181    YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is 10.69.16.177 to network 0.0.0.0\n\n     10.0.0.0/8 is variably subnetted, 6 subnets, 4 masks\nS       10.69.15.128/26 [1/0] via 10.69.16.182\nS       10.69.16.96/27 [1/0] via 10.69.16.182\nC       10.69.16.144/29 is directly connected, FastEthernet0/1\nC       10.69.16.176/30 is directly connected, FastEthernet0/0\nC       10.69.16.180/30 is directly connected, FastEthernet1/0\nS       10.69.16.184/30 [1/0] via 10.69.16.182\nS*   0.0.0.0/0 [1/0] via 10.69.16.177\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Eiri",
+      "type": 9,
+      "model": "Server-PT",
+      "ports": [
+        "FastEthernet0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.16.146",
+          "mask": "255.255.255.248",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.16.145"
+    },
+    {
+      "name": "Phantoma",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1",
+        "FastEthernet1/0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.16.97",
+          "mask": "255.255.255.224",
+          "up": true
+        },
+        {
+          "port": "FastEthernet0/0",
+          "ip": "10.69.16.182",
+          "mask": "255.255.255.252",
+          "up": true
+        },
+        {
+          "port": "FastEthernet1/0",
+          "ip": "10.69.16.185",
+          "mask": "255.255.255.252",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 880 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Phantoma\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A24 - Knights\n ip address 10.69.16.182 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A13 - Switch12\n ip address 10.69.16.97 255.255.255.224\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A25 - Shibuya\n ip address 10.69.16.185 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.181 \nip route 10.69.15.128 255.255.255.192 10.69.16.186 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 880 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Phantoma\n!\n!\n!\n!\n!\n!\n!\n!\nno ip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A24 - Knights\n ip address 10.69.16.182 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A13 - Switch12\n ip address 10.69.16.97 255.255.255.224\n duplex auto\n speed auto\n!\ninterface FastEthernet1/0\n description A25 - Shibuya\n ip address 10.69.16.185 255.255.255.252\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.181 \nip route 10.69.15.128 255.255.255.192 10.69.16.186 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        10.69.16.182    YES manual up                    up \nFastEthernet0/1        10.69.16.97     YES manual up                    up \nFastEthernet1/0        10.69.16.185    YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is 10.69.16.181 to network 0.0.0.0\n\n     10.0.0.0/8 is variably subnetted, 4 subnets, 3 masks\nS       10.69.15.128/26 [1/0] via 10.69.16.186\nC       10.69.16.96/27 is directly connected, FastEthernet0/1\nC       10.69.16.180/30 is directly connected, FastEthernet0/0\nC       10.69.16.184/30 is directly connected, FastEthernet1/0\nS*   0.0.0.0/0 [1/0] via 10.69.16.181\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Switch12",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Semi",
+      "type": 8,
+      "model": "PC-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.16.98",
+          "mask": "255.255.255.224",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.16.97"
+    },
+    {
+      "name": "Shibuya",
+      "type": 0,
+      "model": "2811",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/0",
+        "FastEthernet0/1"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0/1",
+          "ip": "10.69.15.129",
+          "mask": "255.255.255.192",
+          "up": true
+        },
+        {
+          "port": "FastEthernet0/0",
+          "ip": "10.69.16.186",
+          "mask": "255.255.255.252",
+          "up": true
+        }
+      ],
+      "cli": {
+        "show running-config": {
+          "first": 0,
+          "second": "Building configuration...\n\nCurrent configuration : 705 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Shibuya\n!\n!\n!\n!\n!\n!\n!\n!\nip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A25 - Phantoma\n ip address 10.69.16.186 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A12 - Switch13\n ip address 10.69.15.129 255.255.255.192\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.185 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show startup-config": {
+          "first": 0,
+          "second": "Using 705 bytes\n!\nversion 12.4\nno service timestamps log datetime msec\nno service timestamps debug datetime msec\nno service password-encryption\n!\nhostname Shibuya\n!\n!\n!\n!\n!\n!\n!\n!\nip cef\nno ipv6 cef\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nno ip domain-lookup\n!\n!\nspanning-tree mode pvst\n!\n!\n!\n!\n!\n!\ninterface FastEthernet0/0\n description A25 - Phantoma\n ip address 10.69.16.186 255.255.255.252\n duplex auto\n speed auto\n!\ninterface FastEthernet0/1\n description A12 - Switch13\n ip address 10.69.15.129 255.255.255.192\n duplex auto\n speed auto\n!\ninterface Vlan1\n no ip address\n shutdown\n!\nip classless\nip route 0.0.0.0 0.0.0.0 10.69.16.185 \n!\nip flow-export version 9\n!\n!\n!\n!\n!\n!\n!\n!\nline con 0\n!\nline aux 0\n!\nline vty 0 4\n login\n!\n!\n!\nend\n\n\n\n"
+        },
+        "show ip interface brief": {
+          "first": 0,
+          "second": "Interface              IP-Address      OK? Method Status                Protocol \nFastEthernet0/0        10.69.16.186    YES manual up                    up \nFastEthernet0/1        10.69.15.129    YES manual up                    up \nVlan1                  unassigned      YES unset  administratively down down\n\n"
+        },
+        "show ip route": {
+          "first": 0,
+          "second": "Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP\n       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area\n       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2\n       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP\n       i - IS-IS, L1 - IS-IS level-1, L2 - IS-IS level-2, ia - IS-IS inter area\n       * - candidate default, U - per-user static route, o - ODR\n       P - periodic downloaded static route\n\nGateway of last resort is 10.69.16.185 to network 0.0.0.0\n\n     10.0.0.0/8 is variably subnetted, 2 subnets, 2 masks\nC       10.69.15.128/26 is directly connected, FastEthernet0/1\nC       10.69.16.184/30 is directly connected, FastEthernet0/0\nS*   0.0.0.0/0 [1/0] via 10.69.16.185\n\n\n"
+        }
+      }
+    },
+    {
+      "name": "Switch13",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Lain",
+      "type": 18,
+      "model": "Laptop-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.15.130",
+          "mask": "255.255.255.192",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.15.129"
+    },
+    {
+      "name": "Mika",
+      "type": 8,
+      "model": "PC-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.15.187",
+          "mask": "255.255.255.192",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.15.129"
+    },
+    {
+      "name": "Switch6",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Alice",
+      "type": 18,
+      "model": "Laptop-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.12.2",
+          "mask": "255.255.255.0",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.12.1"
+    },
+    {
+      "name": "Reika",
+      "type": 8,
+      "model": "PC-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.12.210",
+          "mask": "255.255.255.0",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.12.1"
+    },
+    {
+      "name": "Switch7",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Taro",
+      "type": 8,
+      "model": "PC-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.15.194",
+          "mask": "255.255.255.192",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.15.193"
+    },
+    {
+      "name": "Switch8",
+      "type": 1,
+      "model": "Switch-PT",
+      "ports": [
+        "Vlan1",
+        "FastEthernet0/1",
+        "FastEthernet1/1",
+        "FastEthernet2/1",
+        "FastEthernet3/1",
+        "FastEthernet4/1",
+        "FastEthernet5/1"
+      ],
+      "interfaces": []
+    },
+    {
+      "name": "Yasuo",
+      "type": 8,
+      "model": "PC-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.13.2",
+          "mask": "255.255.255.0",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.13.1"
+    },
+    {
+      "name": "Miho",
+      "type": 18,
+      "model": "Laptop-PT",
+      "ports": [
+        "FastEthernet0",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.13.122",
+          "mask": "255.255.255.0",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.13.1"
+    },
+    {
+      "name": "Kuma",
+      "type": 9,
+      "model": "Server-PT",
+      "ports": [
+        "FastEthernet0"
+      ],
+      "interfaces": [
+        {
+          "port": "FastEthernet0",
+          "ip": "10.69.13.140",
+          "mask": "255.255.255.0",
+          "up": true
+        }
+      ],
+      "gateway": "10.69.13.1"
+    }
+  ],
+  "links": [
+    {
+      "a": "Psyche",
+      "pa": "FastEthernet0/1",
+      "b": "Switch3",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch3",
+      "pa": "FastEthernet1/1",
+      "b": "Karl",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch3",
+      "pa": "FastEthernet2/1",
+      "b": "Lin",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Accela",
+      "pa": "FastEthernet0/1",
+      "b": "Switch5",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch5",
+      "pa": "FastEthernet1/1",
+      "b": "Omnipresence",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch5",
+      "pa": "FastEthernet2/1",
+      "b": "Denpa",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Copland",
+      "pa": "FastEthernet0/1",
+      "b": "Switch4",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch4",
+      "pa": "FastEthernet1/1",
+      "b": "Masayuki",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Tachibana",
+      "pa": "FastEthernet0/1",
+      "b": "Switch9",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch9",
+      "pa": "FastEthernet1/1",
+      "b": "Collective",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch9",
+      "pa": "FastEthernet2/1",
+      "b": "Ghost",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Navi",
+      "pa": "FastEthernet0/1",
+      "b": "Switch6",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch6",
+      "pa": "FastEthernet1/1",
+      "b": "Alice",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch6",
+      "pa": "FastEthernet2/1",
+      "b": "Reika",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Navi",
+      "pa": "FastEthernet1/1",
+      "b": "Switch8",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch8",
+      "pa": "FastEthernet1/1",
+      "b": "Yasuo",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch8",
+      "pa": "FastEthernet2/1",
+      "b": "Miho",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch8",
+      "pa": "FastEthernet3/1",
+      "b": "Kuma",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Cyberia",
+      "pa": "FastEthernet0/1",
+      "b": "Switch1",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch1",
+      "pa": "FastEthernet1/1",
+      "b": "JJ",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch1",
+      "pa": "FastEthernet2/1",
+      "b": "MyuMyu",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Deus",
+      "pa": "FastEthernet0/1",
+      "b": "Switch10",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch10",
+      "pa": "FastEthernet1/1",
+      "b": "Lilith",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch10",
+      "pa": "FastEthernet2/1",
+      "b": "Specter",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Copland",
+      "pa": "FastEthernet1/0",
+      "b": "Juri",
+      "pb": "FastEthernet0",
+      "cable": 8101,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Navi",
+      "pa": "FastEthernet1/0",
+      "b": "Switch7",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch7",
+      "pa": "FastEthernet1/1",
+      "b": "Taro",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Protocol7",
+      "pa": "FastEthernet0/1",
+      "b": "Switch11",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch11",
+      "pa": "FastEthernet1/1",
+      "b": "Chisa",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch11",
+      "pa": "FastEthernet2/1",
+      "b": "Hodgeson",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Shibuya",
+      "pa": "FastEthernet0/1",
+      "b": "Switch13",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch13",
+      "pa": "FastEthernet1/1",
+      "b": "Lain",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch13",
+      "pa": "FastEthernet2/1",
+      "b": "Mika",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Phantoma",
+      "pa": "FastEthernet0/1",
+      "b": "Switch12",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Switch12",
+      "pa": "FastEthernet1/1",
+      "b": "Semi",
+      "pb": "FastEthernet0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Schumann",
+      "pa": "FastEthernet0/1",
+      "b": "Akashic",
+      "pb": "FastEthernet0",
+      "cable": 8101,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Knights",
+      "pa": "FastEthernet0/1",
+      "b": "Eiri",
+      "pb": "FastEthernet0",
+      "cable": 8101,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Wired",
+      "pa": "FastEthernet0/1",
+      "b": "Switch2",
+      "pb": "FastEthernet0/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Psyche",
+      "pa": "FastEthernet0/0",
+      "b": "Switch2",
+      "pb": "FastEthernet1/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Copland",
+      "pa": "FastEthernet0/0",
+      "b": "Switch2",
+      "pb": "FastEthernet2/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Schumann",
+      "pa": "FastEthernet0/0",
+      "b": "Switch2",
+      "pb": "FastEthernet3/1",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Cyberia",
+      "pa": "FastEthernet1/0",
+      "b": "Wired",
+      "pb": "FastEthernet0/0",
+      "cable": 8101,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Wired",
+      "pa": "FastEthernet1/0",
+      "b": "Navi",
+      "pb": "FastEthernet0/0",
+      "cable": 8101,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Wired",
+      "pa": "FastEthernet1/1",
+      "b": "Tachibana",
+      "pb": "FastEthernet0/0",
+      "cable": 8101,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Schumann",
+      "pa": "FastEthernet1/0",
+      "b": "Accela",
+      "pb": "FastEthernet0/0",
+      "cable": 8101,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Tachibana",
+      "pa": "FastEthernet1/0",
+      "b": "Deus",
+      "pb": "FastEthernet0/0",
+      "cable": 8101,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Deus",
+      "pa": "FastEthernet1/0",
+      "b": "Protocol7",
+      "pb": "FastEthernet0/0",
+      "cable": 8101,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Protocol7",
+      "pa": "FastEthernet1/0",
+      "b": "Knights",
+      "pb": "FastEthernet0/0",
+      "cable": 8101,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Knights",
+      "pa": "FastEthernet1/0",
+      "b": "Phantoma",
+      "pb": "FastEthernet0/0",
+      "cable": 8101,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Phantoma",
+      "pa": "FastEthernet1/0",
+      "b": "Shibuya",
+      "pb": "FastEthernet0/0",
+      "cable": 8101,
+      "a_up": true,
+      "b_up": true
+    },
+    {
+      "a": "Cloud",
+      "pa": "Ethernet6",
+      "b": "Cyberia",
+      "pb": "FastEthernet0/0",
+      "cable": 8100,
+      "a_up": true,
+      "b_up": true
+    }
+  ],
+  "pkt_sha256": "5080485f03ef87ef62e302a35c0e135009e5dc8ac22e51c2e42e6ca016351cc9",
+  "stage": "Saved final file reopened; running and startup configurations agree."
+}

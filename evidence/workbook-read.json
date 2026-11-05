@@ -1,0 +1,1241 @@
+{
+  "Rute": {
+    "status": "ok",
+    "command": "sheet",
+    "summary": "Spreadsheet_Modul_4_Komdat_Jarkom_2026_VLSM(1).xlsx \u00b7 Rute!A1:D27: 27 non-empty rows",
+    "detail": {
+      "rows": [
+        [
+          "Nama Subnet",
+          "Rute",
+          "Jumlah IP",
+          "Netmask"
+        ],
+        [
+          "A1",
+          "Psyche > Switch3 > Karl, Lin",
+          881,
+          "/22"
+        ],
+        [
+          "A2",
+          "Accela > Switch5 > Omnipresence, Denpa",
+          514,
+          "/22"
+        ],
+        [
+          "A3",
+          "Copland > Switch4 > Masayuki",
+          301,
+          "/23"
+        ],
+        [
+          "A4",
+          "Tachibana > Switch9 > Collective, Ghost",
+          267,
+          "/23"
+        ],
+        [
+          "A5",
+          "Navi > Switch6 > Alice, Reika",
+          254,
+          "/24"
+        ],
+        [
+          "A6",
+          "Navi > Switch8 > Yasuo, Miho, Kuma",
+          143,
+          "/24"
+        ],
+        [
+          "A7",
+          "Cyberia > Switch1 > JJ, MyuMyu",
+          126,
+          "/25"
+        ],
+        [
+          "A8",
+          "Deus > Switch10 > Lilith, Specter",
+          99,
+          "/25"
+        ],
+        [
+          "A9",
+          "Copland > Juri",
+          32,
+          "/26"
+        ],
+        [
+          "A10",
+          "Navi > Switch7 > Taro",
+          58,
+          "/26"
+        ],
+        [
+          "A11",
+          "Protocol7 > Switch11 > Chisa, Hodgeson",
+          33,
+          "/26"
+        ],
+        [
+          "A12",
+          "Shibuya > Switch13 > Lain, Mika",
+          62,
+          "/26"
+        ],
+        [
+          "A13",
+          "Phantoma > Switch12 > Semi",
+          15,
+          "/27"
+        ],
+        [
+          "A14",
+          "Wired > Switch2 > Psyche, Copland, Schumann",
+          4,
+          "/29"
+        ],
+        [
+          "A15",
+          "Schumann > Akashic",
+          4,
+          "/29"
+        ],
+        [
+          "A16",
+          "Knights > Eiri",
+          3,
+          "/29"
+        ],
+        [
+          "A17",
+          "Cyberia > Wired",
+          2,
+          "/30"
+        ],
+        [
+          "A18",
+          "Wired > Navi",
+          2,
+          "/30"
+        ],
+        [
+          "A19",
+          "Wired > Tachibana",
+          2,
+          "/30"
+        ],
+        [
+          "A20",
+          "Schumann > Accela",
+          2,
+          "/30"
+        ],
+        [
+          "A21",
+          "Tachibana > Deus",
+          2,
+          "/30"
+        ],
+        [
+          "A22",
+          "Deus > Protocol7",
+          2,
+          "/30"
+        ],
+        [
+          "A23",
+          "Protocol7 > Knights",
+          2,
+          "/30"
+        ],
+        [
+          "A24",
+          "Knights > Phantoma",
+          2,
+          "/30"
+        ],
+        [
+          "A25",
+          "Phantoma > Shibuya",
+          2,
+          "/30"
+        ],
+        [
+          "Total",
+          null,
+          2814,
+          "/19"
+        ]
+      ],
+      "formulas": {
+        "C27": "=SUM(C2:C26)"
+      },
+      "sheet": "Rute",
+      "range": "A1:D27",
+      "truncated": false,
+      "rowsShown": 27,
+      "rowsTotal": 27,
+      "features": {
+        "frozen": null,
+        "filter": null,
+        "merges": [
+          "A27:B27"
+        ],
+        "charts": [],
+        "tables": [],
+        "pivots": [],
+        "conditionalFormats": 0,
+        "dataValidations": 0,
+        "hyperlinks": 0,
+        "notes": 0,
+        "hiddenColumns": 0,
+        "hiddenSheet": false
+      },
+      "units": "rows are 0-based row order within the range; formulas and formats keyed by A1 address; features describe the sheet (merges and hyperlinks: the range)"
+    }
+  },
+  "Pembagian IP - VLSM": {
+    "status": "ok",
+    "command": "sheet",
+    "summary": "Spreadsheet_Modul_4_Komdat_Jarkom_2026_VLSM(1).xlsx \u00b7 Pembagian IP - VLSM!A1:E26: 26 non-empty rows",
+    "detail": {
+      "rows": [
+        [
+          "Subnet",
+          "Network ID",
+          "Netmask",
+          "Broadcast",
+          "Range IP"
+        ],
+        [
+          "A1",
+          "10.69.0.0",
+          "255.255.252.0",
+          "10.69.3.255",
+          "10.69.0.1 - 10.69.3.254"
+        ],
+        [
+          "A2",
+          "10.69.4.0",
+          "255.255.252.0",
+          "10.69.7.255",
+          "10.69.4.1 - 10.69.7.254"
+        ],
+        [
+          "A3",
+          "10.69.8.0",
+          "255.255.254.0",
+          "10.69.9.255",
+          "10.69.8.1 - 10.69.9.254"
+        ],
+        [
+          "A4",
+          "10.69.10.0",
+          "255.255.254.0",
+          "10.69.11.255",
+          "10.69.10.1 - 10.69.11.254"
+        ],
+        [
+          "A5",
+          "10.69.12.0",
+          "255.255.255.0",
+          "10.69.12.255",
+          "10.69.12.1 - 10.69.12.254"
+        ],
+        [
+          "A6",
+          "10.69.13.0",
+          "255.255.255.0",
+          "10.69.13.255",
+          "10.69.13.1 - 10.69.13.254"
+        ],
+        [
+          "A7",
+          "10.69.14.0",
+          "255.255.255.128",
+          "10.69.14.127",
+          "10.69.14.1 - 10.69.14.126"
+        ],
+        [
+          "A8",
+          "10.69.15.0",
+          "255.255.255.128",
+          "10.69.15.127",
+          "10.69.15.1 - 10.69.15.126"
+        ],
+        [
+          "A9",
+          "10.69.14.128",
+          "255.255.255.192",
+          "10.69.14.191",
+          "10.69.14.129 - 10.69.14.190"
+        ],
+        [
+          "A10",
+          "10.69.15.192",
+          "255.255.255.192",
+          "10.69.15.255",
+          "10.69.15.193 - 10.69.15.254"
+        ],
+        [
+          "A11",
+          "10.69.16.0",
+          "255.255.255.192",
+          "10.69.16.63",
+          "10.69.16.1 - 10.69.16.62"
+        ],
+        [
+          "A12",
+          "10.69.15.128",
+          "255.255.255.192",
+          "10.69.15.191",
+          "10.69.15.129 - 10.69.15.190"
+        ],
+        [
+          "A13",
+          "10.69.16.96",
+          "255.255.255.224",
+          "10.69.16.127",
+          "10.69.16.97 - 10.69.16.126"
+        ],
+        [
+          "A14",
+          "10.69.16.128",
+          "255.255.255.248",
+          "10.69.16.135",
+          "10.69.16.129 - 10.69.16.134"
+        ],
+        [
+          "A15",
+          "10.69.16.136",
+          "255.255.255.248",
+          "10.69.16.143",
+          "10.69.16.137 - 10.69.16.142"
+        ],
+        [
+          "A16",
+          "10.69.16.144",
+          "255.255.255.248",
+          "10.69.16.151",
+          "10.69.16.145 - 10.69.16.150"
+        ],
+        [
+          "A17",
+          "10.69.16.152",
+          "255.255.255.252",
+          "10.69.16.155",
+          "10.69.16.153 - 10.69.16.154"
+        ],
+        [
+          "A18",
+          "10.69.16.156",
+          "255.255.255.252",
+          "10.69.16.159",
+          "10.69.16.157 - 10.69.16.158"
+        ],
+        [
+          "A19",
+          "10.69.16.160",
+          "255.255.255.252",
+          "10.69.16.163",
+          "10.69.16.161 - 10.69.16.162"
+        ],
+        [
+          "A20",
+          "10.69.16.164",
+          "255.255.255.252",
+          "10.69.16.167",
+          "10.69.16.165 - 10.69.16.166"
+        ],
+        [
+          "A21",
+          "10.69.16.168",
+          "255.255.255.252",
+          "10.69.16.171",
+          "10.69.16.169 - 10.69.16.170"
+        ],
+        [
+          "A22",
+          "10.69.16.172",
+          "255.255.255.252",
+          "10.69.16.175",
+          "10.69.16.173 - 10.69.16.174"
+        ],
+        [
+          "A23",
+          "10.69.16.176",
+          "255.255.255.252",
+          "10.69.16.179",
+          "10.69.16.177 - 10.69.16.178"
+        ],
+        [
+          "A24",
+          "10.69.16.180",
+          "255.255.255.252",
+          "10.69.16.183",
+          "10.69.16.181 - 10.69.16.182"
+        ],
+        [
+          "A25",
+          "10.69.16.184",
+          "255.255.255.252",
+          "10.69.16.187",
+          "10.69.16.185 - 10.69.16.186"
+        ]
+      ],
+      "formulas": {},
+      "sheet": "Pembagian IP - VLSM",
+      "range": "A1:E26",
+      "truncated": false,
+      "rowsShown": 26,
+      "rowsTotal": 26,
+      "features": {
+        "frozen": null,
+        "filter": null,
+        "merges": [],
+        "charts": [],
+        "tables": [
+          {
+            "name": "Table_2",
+            "range": "A1:E5"
+          }
+        ],
+        "pivots": [],
+        "conditionalFormats": 0,
+        "dataValidations": 0,
+        "hyperlinks": 0,
+        "notes": 0,
+        "hiddenColumns": 0,
+        "hiddenSheet": false
+      },
+      "units": "rows are 0-based row order within the range; formulas and formats keyed by A1 address; features describe the sheet (merges and hyperlinks: the range)"
+    }
+  },
+  "Penggabungan - CIDR": {
+    "status": "ok",
+    "command": "sheet",
+    "summary": "Spreadsheet_Modul_4_Komdat_Jarkom_2026_VLSM(1).xlsx \u00b7 Penggabungan - CIDR!B1:G67: 57 non-empty rows",
+    "detail": {
+      "rows": [
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "I",
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Subnet",
+          "Gabungan dari",
+          null,
+          null,
+          null,
+          "Netmask Akhir"
+        ],
+        [
+          null,
+          1,
+          null,
+          2,
+          null,
+          null
+        ],
+        [
+          null,
+          "Subnet",
+          "Netmask",
+          "Subnet",
+          "Netmask",
+          null
+        ],
+        [
+          "B1",
+          "A17",
+          "/30",
+          "A18",
+          "/30",
+          "/29"
+        ],
+        [
+          "B2",
+          "A19",
+          "/30",
+          "A20",
+          "/30",
+          "/29"
+        ],
+        [
+          "B3",
+          "A21",
+          "/30",
+          "A22",
+          "/30",
+          "/29"
+        ],
+        [
+          "B4",
+          "A23",
+          "/30",
+          "A24",
+          "/30",
+          "/29"
+        ],
+        [
+          "B5",
+          "A14",
+          "/29",
+          "A25",
+          "/30",
+          "/28"
+        ],
+        [
+          "B6",
+          "A15",
+          "/29",
+          "A16",
+          "/29",
+          "/28"
+        ],
+        [
+          "B7",
+          "A7",
+          "/25",
+          "A9",
+          "/26",
+          "/24"
+        ],
+        [
+          "B8",
+          "A11",
+          "/26",
+          "A12",
+          "/26",
+          "/25"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "II",
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Subnet",
+          "Gabungan dari",
+          null,
+          null,
+          null,
+          "Netmask Akhir"
+        ],
+        [
+          null,
+          1,
+          null,
+          2,
+          null,
+          null
+        ],
+        [
+          null,
+          "Subnet",
+          "Netmask",
+          "Subnet",
+          "Netmask",
+          null
+        ],
+        [
+          "C1",
+          "B1",
+          "/29",
+          "B2",
+          "/29",
+          "/28"
+        ],
+        [
+          "C2",
+          "B3",
+          "/29",
+          "B4",
+          "/29",
+          "/28"
+        ],
+        [
+          "C3",
+          "B5",
+          "/28",
+          "B6",
+          "/28",
+          "/27"
+        ],
+        [
+          "C4",
+          "A10",
+          "/26",
+          "A13",
+          "/27",
+          "/25"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "III",
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Subnet",
+          "Gabungan dari",
+          null,
+          null,
+          null,
+          "Netmask Akhir"
+        ],
+        [
+          null,
+          1,
+          null,
+          2,
+          null,
+          null
+        ],
+        [
+          null,
+          "Subnet",
+          "Netmask",
+          "Subnet",
+          "Netmask",
+          null
+        ],
+        [
+          "D1",
+          "C1",
+          "/28",
+          "C2",
+          "/28",
+          "/27"
+        ],
+        [
+          "D2",
+          "C3",
+          "/27",
+          "D1",
+          "/27",
+          "/26"
+        ],
+        [
+          "D3",
+          "C4",
+          "/25",
+          "D2",
+          "/26",
+          "/24"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "IV",
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Subnet",
+          "Gabungan dari",
+          null,
+          null,
+          null,
+          "Netmask Akhir"
+        ],
+        [
+          null,
+          1,
+          null,
+          2,
+          null,
+          null
+        ],
+        [
+          null,
+          "Subnet",
+          "Netmask",
+          "Subnet",
+          "Netmask",
+          null
+        ],
+        [
+          "E1",
+          "A8",
+          "/25",
+          "B8",
+          "/25",
+          "/24"
+        ],
+        [
+          "E2",
+          "A5",
+          "/24",
+          "A6",
+          "/24",
+          "/23"
+        ],
+        [
+          "E3",
+          "B7",
+          "/24",
+          "E1",
+          "/24",
+          "/23"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "V",
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Subnet",
+          "Gabungan dari",
+          null,
+          null,
+          null,
+          "Netmask Akhir"
+        ],
+        [
+          null,
+          1,
+          null,
+          2,
+          null,
+          null
+        ],
+        [
+          null,
+          "Subnet",
+          "Netmask",
+          "Subnet",
+          "Netmask",
+          null
+        ],
+        [
+          "F1",
+          "E2",
+          "/23",
+          "E3",
+          "/23",
+          "/22"
+        ],
+        [
+          "F2",
+          "A3",
+          "/23",
+          "A4",
+          "/23",
+          "/22"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "VI",
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Subnet",
+          "Gabungan dari",
+          null,
+          null,
+          null,
+          "Netmask Akhir"
+        ],
+        [
+          null,
+          1,
+          null,
+          2,
+          null,
+          null
+        ],
+        [
+          null,
+          "Subnet",
+          "Netmask",
+          "Subnet",
+          "Netmask",
+          null
+        ],
+        [
+          "G1",
+          "F1",
+          "/22",
+          "F2",
+          "/22",
+          "/21"
+        ],
+        [
+          "G2",
+          "A1",
+          "/22",
+          "A2",
+          "/22",
+          "/21"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "VII",
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Subnet",
+          "Gabungan dari",
+          null,
+          null,
+          null,
+          "Netmask Akhir"
+        ],
+        [
+          null,
+          1,
+          null,
+          2,
+          null,
+          null
+        ],
+        [
+          null,
+          "Subnet",
+          "Netmask",
+          "Subnet",
+          "Netmask",
+          null
+        ],
+        [
+          "H1",
+          "G1",
+          "/21",
+          "G2",
+          "/21",
+          "/20"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "VIII",
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Subnet",
+          "Gabungan dari",
+          null,
+          null,
+          null,
+          "Netmask Akhir"
+        ],
+        [
+          null,
+          1,
+          null,
+          2,
+          null,
+          null
+        ],
+        [
+          null,
+          "Subnet",
+          "Netmask",
+          "Subnet",
+          "Netmask",
+          null
+        ],
+        [
+          "I1",
+          "D3",
+          "/24",
+          "H1",
+          "/20",
+          "/19"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Hasil akhir: I1 = 10.69.0.0/19",
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ],
+      "formulas": {},
+      "sheet": "Penggabungan - CIDR",
+      "range": "B1:G67",
+      "truncated": false,
+      "rowsShown": 67,
+      "rowsTotal": 67,
+      "features": {
+        "frozen": null,
+        "filter": null,
+        "merges": [
+          "B4:B6",
+          "C4:F4",
+          "G4:G6",
+          "C5:D5",
+          "E5:F5",
+          "B17:B19",
+          "C17:F17",
+          "G17:G19",
+          "C18:D18",
+          "E18:F18",
+          "B26:B28",
+          "C26:F26",
+          "G26:G28",
+          "C27:D27",
+          "E27:F27",
+          "B34:B36",
+          "C34:F34",
+          "G34:G36",
+          "C35:D35",
+          "E35:F35",
+          "B42:B44",
+          "C42:F42",
+          "G42:G44",
+          "C43:D43",
+          "E43:F43",
+          "B49:B51",
+          "C49:F49",
+          "G49:G51",
+          "C50:D50",
+          "E50:F50",
+          "B56:B58",
+          "C56:F56",
+          "G56:G58",
+          "C57:D57",
+          "E57:F57",
+          "B62:B64",
+          "C62:F62",
+          "G62:G64",
+          "C63:D63",
+          "E63:F63",
+          "B67:G67",
+          "A1:G1"
+        ],
+        "charts": [],
+        "tables": [],
+        "pivots": [],
+        "conditionalFormats": 0,
+        "dataValidations": 0,
+        "hyperlinks": 0,
+        "notes": 0,
+        "hiddenColumns": 0,
+        "hiddenSheet": false
+      },
+      "units": "rows are 0-based row order within the range; formulas and formats keyed by A1 address; features describe the sheet (merges and hyperlinks: the range)"
+    }
+  },
+  "Pembagian IP - CIDR": {
+    "status": "ok",
+    "command": "sheet",
+    "summary": "Spreadsheet_Modul_4_Komdat_Jarkom_2026_VLSM(1).xlsx \u00b7 Pembagian IP - CIDR!A1:E26: 26 non-empty rows",
+    "detail": {
+      "rows": [
+        [
+          "Subnet",
+          "Network ID",
+          "Netmask",
+          "Broadcast",
+          "Range IP"
+        ],
+        [
+          "A1",
+          "10.69.0.0",
+          "255.255.252.0",
+          "10.69.3.255",
+          "10.69.0.1 - 10.69.3.254"
+        ],
+        [
+          "A2",
+          "10.69.4.0",
+          "255.255.252.0",
+          "10.69.7.255",
+          "10.69.4.1 - 10.69.7.254"
+        ],
+        [
+          "A3",
+          "10.69.8.0",
+          "255.255.254.0",
+          "10.69.9.255",
+          "10.69.8.1 - 10.69.9.254"
+        ],
+        [
+          "A4",
+          "10.69.10.0",
+          "255.255.254.0",
+          "10.69.11.255",
+          "10.69.10.1 - 10.69.11.254"
+        ],
+        [
+          "A5",
+          "10.69.12.0",
+          "255.255.255.0",
+          "10.69.12.255",
+          "10.69.12.1 - 10.69.12.254"
+        ],
+        [
+          "A6",
+          "10.69.13.0",
+          "255.255.255.0",
+          "10.69.13.255",
+          "10.69.13.1 - 10.69.13.254"
+        ],
+        [
+          "A7",
+          "10.69.14.0",
+          "255.255.255.128",
+          "10.69.14.127",
+          "10.69.14.1 - 10.69.14.126"
+        ],
+        [
+          "A8",
+          "10.69.15.0",
+          "255.255.255.128",
+          "10.69.15.127",
+          "10.69.15.1 - 10.69.15.126"
+        ],
+        [
+          "A9",
+          "10.69.14.128",
+          "255.255.255.192",
+          "10.69.14.191",
+          "10.69.14.129 - 10.69.14.190"
+        ],
+        [
+          "A10",
+          "10.69.16.0",
+          "255.255.255.192",
+          "10.69.16.63",
+          "10.69.16.1 - 10.69.16.62"
+        ],
+        [
+          "A11",
+          "10.69.15.128",
+          "255.255.255.192",
+          "10.69.15.191",
+          "10.69.15.129 - 10.69.15.190"
+        ],
+        [
+          "A12",
+          "10.69.15.192",
+          "255.255.255.192",
+          "10.69.15.255",
+          "10.69.15.193 - 10.69.15.254"
+        ],
+        [
+          "A13",
+          "10.69.16.96",
+          "255.255.255.224",
+          "10.69.16.127",
+          "10.69.16.97 - 10.69.16.126"
+        ],
+        [
+          "A14",
+          "10.69.16.128",
+          "255.255.255.248",
+          "10.69.16.135",
+          "10.69.16.129 - 10.69.16.134"
+        ],
+        [
+          "A15",
+          "10.69.16.144",
+          "255.255.255.248",
+          "10.69.16.151",
+          "10.69.16.145 - 10.69.16.150"
+        ],
+        [
+          "A16",
+          "10.69.16.152",
+          "255.255.255.248",
+          "10.69.16.159",
+          "10.69.16.153 - 10.69.16.158"
+        ],
+        [
+          "A17",
+          "10.69.16.160",
+          "255.255.255.252",
+          "10.69.16.163",
+          "10.69.16.161 - 10.69.16.162"
+        ],
+        [
+          "A18",
+          "10.69.16.164",
+          "255.255.255.252",
+          "10.69.16.167",
+          "10.69.16.165 - 10.69.16.166"
+        ],
+        [
+          "A19",
+          "10.69.16.168",
+          "255.255.255.252",
+          "10.69.16.171",
+          "10.69.16.169 - 10.69.16.170"
+        ],
+        [
+          "A20",
+          "10.69.16.172",
+          "255.255.255.252",
+          "10.69.16.175",
+          "10.69.16.173 - 10.69.16.174"
+        ],
+        [
+          "A21",
+          "10.69.16.176",
+          "255.255.255.252",
+          "10.69.16.179",
+          "10.69.16.177 - 10.69.16.178"
+        ],
+        [
+          "A22",
+          "10.69.16.180",
+          "255.255.255.252",
+          "10.69.16.183",
+          "10.69.16.181 - 10.69.16.182"
+        ],
+        [
+          "A23",
+          "10.69.16.184",
+          "255.255.255.252",
+          "10.69.16.187",
+          "10.69.16.185 - 10.69.16.186"
+        ],
+        [
+          "A24",
+          "10.69.16.188",
+          "255.255.255.252",
+          "10.69.16.191",
+          "10.69.16.189 - 10.69.16.190"
+        ],
+        [
+          "A25",
+          "10.69.16.136",
+          "255.255.255.252",
+          "10.69.16.139",
+          "10.69.16.137 - 10.69.16.138"
+        ]
+      ],
+      "formulas": {},
+      "sheet": "Pembagian IP - CIDR",
+      "range": "A1:E26",
+      "truncated": false,
+      "rowsShown": 26,
+      "rowsTotal": 26,
+      "features": {
+        "frozen": null,
+        "filter": null,
+        "merges": [],
+        "charts": [],
+        "tables": [
+          {
+            "name": "Table_1",
+            "range": "A1:E5"
+          }
+        ],
+        "pivots": [],
+        "conditionalFormats": 0,
+        "dataValidations": 0,
+        "hyperlinks": 0,
+        "notes": 0,
+        "hiddenColumns": 0,
+        "hiddenSheet": false
+      },
+      "units": "rows are 0-based row order within the range; formulas and formats keyed by A1 address; features describe the sheet (merges and hyperlinks: the range)"
+    }
+  }
+}

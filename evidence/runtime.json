@@ -1,0 +1,11 @@
+{
+  "captured_at_utc": "2026-11-05T15:21:35.624658+00:00",
+  "application": "Cisco Packet Tracer",
+  "version": "9.0.1.0858",
+  "platform": "Linux",
+  "display": ":100",
+  "pkt": "cpt/K11-VLSM.pkt",
+  "pkt_sha256": "5080485f03ef87ef62e302a35c0e135009e5dc8ac22e51c2e42e6ca016351cc9",
+  "workspace_export": "docs/images/topology-cpt.png",
+  "export_method": "LogicalWorkspace.getWorkspaceImage(\"PNG\"); signed bytes decoded with value & 255; no image-content edits"
+}
