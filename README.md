@@ -9,10 +9,6 @@
 
 CPT menggunakan VLSM pada jaringan `10.69.*` dengan routing statis.
 
-Jumlah host per node mengikuti **gambar** topologi resmi (soal poin 7), bukan teks diagram Mermaid;
-selisih teks/gambar: JJ 96/95, Juri 21/31, Ghost 5/6, Mika 1/4, Alice 238/208, Reika 15/45.
-Belum ada revisi resmi dari asisten.
-
 ## Topologi
 
 ![Topologi aktual Cisco Packet Tracer](docs/images/topology-cpt.png)
@@ -57,32 +53,6 @@ dan `10.69.16.64/27`. Blok bebas ditampilkan pada pohon berikut.
 ![Pohon pembagian VLSM A1 sampai A25](docs/images/vlsm-tree.png)
 
 [Perbesar pohon (SVG)](docs/images/vlsm-tree.svg).
-
-### Sinkronisasi perhitungan CIDR
-
-Sheet `Penggabungan - CIDR` dan `Pembagian IP - CIDR` sudah dikoreksi mengikuti inventaris host yang sama.
-A7 memakai `10.69.14.0/25`, sedangkan A9 memakai `10.69.14.128/26`.
-Tiga baris penggabungan berubah:
-
-| Gabungan | Anak | Hasil |
-| --- | --- | --- |
-| B7 | A7 `/25` + A9 `/26` | `10.69.14.0/24` |
-| C4 | A10 `/26` + A13 `/27` | `10.69.16.0/25` |
-| E3 | B7 `/24` + E1 `/24` | `10.69.14.0/23` |
-
-[Audit CIDR](evidence/cidr-audit.json) memeriksa 25 subnet dan 24 penggabungan sampai `10.69.0.0/19`.
-Alamat beberapa subnet CIDR berbeda dari VLSM; simulator GNS3 harus mengikuti sheet CIDR dan masih perlu diuji kelompok.
-
-<details>
-<summary>Sheet alokasi dan penggabungan CIDR</summary>
-
-![Sheet Pembagian IP - CIDR setelah koreksi](docs/images/worksheet-cidr.png)
-
-![Sheet Penggabungan - CIDR, halaman pertama](docs/images/worksheet-cidr-merge-1.png)
-
-![Sheet Penggabungan - CIDR, halaman kedua](docs/images/worksheet-cidr-merge-2.png)
-
-</details>
 
 ## Konfigurasi IP dan Routing
 
@@ -155,15 +125,7 @@ Lain ke Cyberia: `ping 10.69.14.1`, 4/4 balasan (0% loss).
 
 ![Hasil ping dari Lain ke Cyberia 10.69.14.1](docs/images/ping-lain-cyberia.png)
 
-Screenshot menggunakan `.pkt` dengan hash yang sama seperti run final.
 [Log ping](evidence/ping-results.json), [validasi artefak](evidence/artifact-validation.json),
 dan [metode, cakupan, serta hash berkas teruji](evidence/README.md).
 
-Tiga anomali event penyelesaian CLI tercatat apa adanya. Semua transkrip tetap lengkap,
-memuat statistik untuk target yang benar, dan menunjukkan seluruh paket dibalas.
-Detail tersedia pada [metode pencatatan](evidence/README.md#event-penyelesaian-cli).
-
 ![Ringkasan pemeriksaan konsistensi artefak final](docs/images/validation-summary.png)
-
-> GNS3/CIDR masih perlu dilengkapi kelompok. Pengumpulan: 5 November 2026, 23.59 WIB;
-> tujuan pengumpulan masih *menyusul*. Demo paling lambat 18 November 2026 menggunakan berkas yang dikumpulkan.
